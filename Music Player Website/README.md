@@ -3,5 +3,6 @@ I employed CSS Flexbox, Media queries for responsive design, and CSS transitions
 This project includes sections like Sidebar, Music Player, Header, Genre, and Top Musics.
 I learned these techniques from YouTube, got inspired, and implemented them."
 
-RESULT SCREENSHOT
+RESULT SCREENSHOT:
 
+![image](https://github.com/Drishyaraju/Self-Learning-Projects/assets/114589884/0dec08bc-7672-41c4-a813-f8226ae074d3
