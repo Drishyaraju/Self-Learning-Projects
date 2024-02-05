@@ -5,4 +5,4 @@ I learned these techniques from YouTube, got inspired, and implemented them."
 
 RESULT SCREENSHOT:
 
-![image](https://github.com/Drishyaraju/Self-Learning-Projects/assets/114589884/0dec08bc-7672-41c4-a813-f8226ae074d3
+![result-screenshot](https://github.com/Drishyaraju/Self-Learning-Projects/assets/114589884/db4cbb9e-ab53-49b9-8781-350f913a3222)
